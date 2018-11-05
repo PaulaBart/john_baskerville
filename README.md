@@ -8,4 +8,4 @@ Monday 29th october
 
 Monday 5th november
 
-[John Baskerville 2](https://paulabart.github.io/john_baskerville/baskerville1) added second HTML.
+[John Baskerville 2](https://paulabart.github.io/john_baskerville/baskerville2) added second HTML.
